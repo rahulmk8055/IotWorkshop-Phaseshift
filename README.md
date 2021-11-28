@@ -59,7 +59,7 @@ Open the Arduino file :-
 
 
 The goal of this Project is to control Main Volatge Devies from a Website.  For Eg:- Turning on/off a Fan or bulb or anything connected to mains voltage.
-NOTE :- You need to connect a device to the relay provided to swith the a device ON or OFF.
+NOTE :- You need to connect a device to the relay provided to swith a device ON or OFF.
 
 ## Software
 Follow the same steps as Project 1.
